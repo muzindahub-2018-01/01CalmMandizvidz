@@ -1,8 +1,8 @@
 binary = input("Enter number in binary:  ")
 denary = 0
 for digit in binary:
-denary = denary*2 + int(digit)
-print(binary,"in Decimal =",decimal);
+denary = denary*2 + int()
+print("Your denary number is: " = str()):
 
 def add(x, y):
    return x + y
